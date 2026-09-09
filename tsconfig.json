@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ESNext"
+  },
+  "include": [
+    "**/*",
+    "global.d.ts"
+  ]
+}
